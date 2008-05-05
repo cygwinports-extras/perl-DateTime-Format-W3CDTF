@@ -1,0 +1,6 @@
+category: Perl
+requires: perl perl-DateTime
+sdesc: "Perl W3CDTF date/time module"
+ldesc: "This module handles formatting and parsing of W3CDTF, a W3C 
+sponsored, simplified profile of ISO 8601 for the Web. This is the 
+native date/time format for Dublin Core, and RSS."
