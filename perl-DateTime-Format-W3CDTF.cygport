@@ -1,0 +1,12 @@
+CPAN_AUTHOR=gwilliams
+inherit perl
+
+NAME="perl-DateTime-Format-W3CDTF"
+VERSION=0.06
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl W3CDTF date/time format module"
+DESCRIPTION="This module understands the W3CDTF date/time format, an ISO 8601
+profile, which is the native date format of RSS 1.0."
+
+ARCH=noarch
